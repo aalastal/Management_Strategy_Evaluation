@@ -1,5 +1,5 @@
 # ==============================================================================
-# === openMSE Exercise 2: Constructing Operating Models  =======================
+# ===================== Constructing Operating Models  =========================
 # ==============================================================================
 #
 # In this practical exercise, we will explore four ways to construct openMSE
